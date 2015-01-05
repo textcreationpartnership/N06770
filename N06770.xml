@@ -114,8 +114,9 @@
    <text xml:lang="unk">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008589_0000_102F8A92DC859708"/>
-            <pb facs="tcp:008589_0001_102F8A965CBDF4B8" rendition="simple:additions"/>
+            <pb facs="unknown:008589_0000_102F8A92DC859708"/>
+            <pb facs="unknown:008589_0001_102F8A965CBDF4B8"
+                rendition="simple:additions"/>
             <p>
                <hi>Ruth</hi>'s RESOLUTION: A DISCOURSE, Delivered By the late Reverend JONATHAN EDWARDS, Of <hi>Northampton.</hi>
             </p>
@@ -124,7 +125,8 @@
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:008589_0002_102F8A98EAF5E8D8" rendition="simple:additions"/>
+            <pb facs="unknown:008589_0002_102F8A98EAF5E8D8"
+                rendition="simple:additions"/>
             <head>
                <hi>Ruth</hi>'s Reſolution.</head>
             <epigraph>
@@ -148,7 +150,7 @@
                   <desc>••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>lect is in Travail with, in the new Birth. Ruth forſook all her natural Relations, and her own Country, the Land of her Nati<g ref="char:EOLhyphen"/>vity,
-<pb n="3" facs="tcp:008589_0003_102F8A9A8A1BF788"/>
+<pb n="3" facs="unknown:008589_0003_102F8A9A8A1BF788"/>
 and all her former Poſſeſſions there, for the ſake of the God of Iſrael; as every true Chriſtian forſakes all for Chriſt Pſalm 45.10. <hi>He<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -203,7 +205,7 @@ and all her former Poſſeſſions there, for the ſake of the God of Iſrael; a
                   </gap>eft thy Father and thy Mother, and the Lord of <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>y Nativity, and art came unto a People which thou knoweſt was heretofore. The Lord recompence thy Work, and a full Reward
-<pb n="4" facs="tcp:008589_0004_102F8A9C1992FB58"/>
+<pb n="4" facs="unknown:008589_0004_102F8A9C1992FB58"/>
 be given th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> of the Lord God of Iſrael, under whoſe Wings thou art came to truſt.</hi> She left her Father and Mother, and the Land of her Nativity, to come and <hi>truſt under the Shadow of God's Wings</hi>; and ſhe had indeed a full Reward given her, as Boaz wiſhed; for beſides immediate ſpiritual Bleſſings to her own Soul<g ref="char:punc">▪</g> &amp; eternal Rewards in another World, ſhe was rewarded with plenti<g ref="char:EOLhyphen"/>ful and proſperous outward Circumſtances, in the Family of Bo<g ref="char:EOLhyphen"/>az: and God raiſed up David and Solomon of her Seed, and eſ<g ref="char:EOLhyphen"/>tabliſhed the Crown of Iſrael (the People that ſhe choſe before her own People) in her Poſterity, and (which is much more) of her Seed he raiſed up Jeſus Chriſt, in whom all the Families of the Earth are bleſſed.</p>
@@ -278,7 +280,7 @@ be given th<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap>ting different Diſpoſitions.— They are ſeparated as they are in different Kingdoms: the <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>
-               <pb n="5" facs="tcp:008589_0005_102F8A9EC7CE7960"/>
+               <pb n="5" facs="unknown:008589_0005_102F8A9EC7CE7960"/>
 remains in the Kingdom of Darkneſs<g ref="char:punc">▪</g> the Other is tranſlated into the Kingdom of God's dear Son: And ſometimes they are finally ſeparated in theſe Reſpects: While One dwells in the Land of Iſrael, and in the Houſe of God; the Other, like Orpha lives and dies in the Land of Moab.</p>
             <p>Now 'tis lamentable when it is thus: 'Tis awful being parted ſo: 'Tis doleful, when thoſe that have formerly been together in Sin, ſome turn to God and join themſelves with his People, that it ſhould prove a parting between them and their former Companions and Acquaintance. — It ſhould be our firm and in<g ref="char:EOLhyphen"/>flexible Reſolution in ſuch a Caſe, that it ſhall be no parting, but that we will follow them, that their People ſhall be our People, and their God our God; and that for the following Reaſons.</p>
             <p n="1">I Becauſe <hi>their God</hi> is a glorious God. There is none like him, who is infinite in Glory and Excellency<g ref="char:punc">▪</g> He is the moſt high God glorious in Holineſs fearful in Praiſes<g ref="char:punc">▪</g> doing Wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -403,7 +405,7 @@ remains in the Kingdom of Darkneſs<g ref="char:punc">▪</g> the Other is tran�
                </gap> ſuch a God! They have an excellent and <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>, who is the only begotten
-<pb n="6" facs="tcp:008589_0006_102F8AA056957A98"/>
+<pb n="6" facs="unknown:008589_0006_102F8AA056957A98"/>
 Son of God; the Brightneſs of his Father's Glory; One in whom God from Eternity had infinite Delight: A Savior of infinite Love; One that has ſhed his own Blood, and made his Soul an Offering for their Sins; and One that is able to ſave them to the uttermoſt.</p>
             <p n="2">II. <hi>Their People</hi> are an excellent and happy People. God has re<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -433,17 +435,17 @@ Son of God; the Brightneſs of his Father's Glory; One in whom God from Eternity
                      <desc>•</desc>
                   </gap>ing. We will go with you: for we have hear'd that God is with you.</hi> So ſhould Perſons as it were take hold of the Skirt of their Neighbours and Companions that have turn'd to God, and reſolve that they will go with them<g ref="char:punc">▪</g> becauſe God is with them.</p>
             <p n="3">III Happineſs is no where elſe to be had, but in <hi>their God,</hi> &amp; with <hi>their People.</hi> There are that are called God's many, and Lords many. Some make Gods of their Pleaſures; ſome chooſe
-<pb n="7" facs="tcp:008589_0007_102F8AA580622CD0"/>
+<pb n="7" facs="unknown:008589_0007_102F8AA580622CD0"/>
 Mammon for their God; ſome make Gods of their own ſuppoſed Excellencies, or the outward Advantages they have above their Neighbours; ſome chooſe one thing for their God, and others a<g ref="char:EOLhyphen"/>nother: But Men can be happy in no other God but the God of <hi>Iſrael.</hi> He is the only Fountain of Happineſs. Other Gods can't help in Calamity; nor can any of them afford what the poor empty Soul ſtands in Need of. Let Men adore thoſe other Gods never ſo much, and call upon them never ſo earneſtly, and ſerve them never ſo diligently, they will nevertheleſs remain poor, wretched, unſatisfied, undone Creatures. All other People are miſerable, but that People whoſe God is the Lord.—The World is divided into two Societies: There are the People of God, the little Flock of Jeſus Chriſt, that Company that we read of Rev. 14.4. <hi>Theſe are they which were not defiled with Women; for they are Virgins: Theſe are they which follow the Lomb whither<g ref="char:EOLhyphen"/>ſoever he goeth: Theſe were redeemed from among Men, being the firſt Fruits unto God and to the Lamb.</hi> And there are thoſe that be<g ref="char:EOLhyphen"/>long to the Kingdom of Darkneſs; that are without Chriſt, be<g ref="char:EOLhyphen"/>ing Aliens from the Common-wealth of <hi>Iſrael,</hi> Strangers from the Covenants of Promiſe, having no Hope, and without God in the World. All that are of this latter Company, are wretched and undone; they are the Enemies of God, and under his Wrath and Condemnation: They are the Devil's Slaves, that ſerve him blindfold, and are befool'd and enſnared by him, and hurried along in the broad Way to eternal Perdition.</p>
             <p n="4">IV. When thoſe that we have formerly been converſant with, are turning to God, and to his People, <hi>their Example</hi> ought to influence us. Their Example ſhould be looked upon as the Call of God to us, to do as they have done. God, when he chan<g ref="char:EOLhyphen"/>ges the Heart of One, calls upon Another; eſpecially does he loudly call on thoſe that have been their Friends and Acquaint<g ref="char:EOLhyphen"/>ance.—We have been influenced by their Examples in Evil, and ſhall we ceaſe to follow them when they make the wiſeſt Choice that ever they made, and do the beſt Thing that ever he did? If we have been Companions with them in Worldlineſs, in Vanity, in unproffitable and ſinful Converſation, it will be an hard Caſe, if there muſt be a parting now, becauſe we be not willing to be Companions with them in Holineſs, and true Happineſs. Men are greatly influenced by ſeeing one another's Proſperity in other Things. If thoſe that they have been much converſant with, grow rich, and obtain any great earthly Advantages, it awakens their Ambi<g ref="char:EOLhyphen"/>tion and eager Deſire after the like Proſperity: How much more ſhould they be influenced, and ſtirred up to follow them, and be
-<pb n="8" facs="tcp:008589_0008_102F8AA8AF0A09B8"/>
+<pb n="8" facs="unknown:008589_0008_102F8AA8AF0A09B8"/>
 like them, when they obtain that ſpiritual and eternal Happineſs that is infinitely more worth than all the Proſperity and Glory of this World.</p>
             <p n="5">V. Our Reſolutions to cleave to and follow thoſe that are turn<g ref="char:EOLhyphen"/>ing to God, and joining themſelves to his People, ought to be fixed and ſtrong, becauſe of the great Difficulty of it. If we will cleave to them, and have their God for our God, and their People for our People we muſt mortify and deny all our Laſts, and croſs every evil Appetite and Inclination, and forever part with all Sin. But our Luſts are many and violent. Sin is natu<g ref="char:EOLhyphen"/>rally exceeding dear to us; to part with it is compared to pluck<g ref="char:EOLhyphen"/>ing out our right Eyes. Men may refrain from wonted Ways of Sin for a little While, and may deny their Luſts in a partial Degree, with leſs Difficulty; but 'tis heart rending Work final<g ref="char:EOLhyphen"/>ly to part with all Sin, and give our deareſt Luſts a Bill of Di<g ref="char:EOLhyphen"/>vorce, utterly to ſend them away. But this we muſt do if we would follow thoſe that are truly turning to God: Yea, we muſt not only forſake Sin, but muſt, in a Senſe, forſake all the World, Luke 14.33 <hi>Whoſoever he be of you, that forſaketh not all that he hath, he cannot be my Diſciple.</hi> That is, he muſt forſake all <hi>in his Heart</hi>
                <g ref="char:punc">▪</g> and muſt come to a thorough Diſpoſition and Rea<g ref="char:EOLhyphen"/>dineſs, <hi>actually</hi> to quit all for God, and the glorious ſpiritual Privileges of his People, whenever the Caſe may require it; and that without any Proſpect of any Thing of the like Nature, or a<g ref="char:EOLhyphen"/>ny worldly Thing whateſover to make Amends for it; and all to go into a ſtrange Country, a Land that has hitherto been un<g ref="char:EOLhyphen"/>ſeen; like Abraham, who being called of God, <hi>went out of his own Country, and from his Kindred, and from his Father's Houſe, for a Land that God would ſhew him, not knowing whither he went.</hi>
             </p>
             <p>Thus it was a hard Thing for Ruth to forſake her native Coun<g ref="char:EOLhyphen"/>try, and her Father and Mother, her Kindred and Acquaintance, and all the pleaſant Things ſhe had in the Land of Moab, to dwell in the Land of Iſrael, where ſhe had never been.— Naomi told her of the Difficulties once and again. They were too hard for her Siſter Orpha; the Conſideration of them turned her back after ſhe was ſet out. Her Reſolution was not firm e<g ref="char:EOLhyphen"/>nough to overcome them. But ſo firmly reſolved was Ruth that ſhe break through all; ſhe was ſteadfaſt in it, that let the Diffi<g ref="char:EOLhyphen"/>culty be what it would, ſhe would not leave her Mother-in law. So Perſons had need to be very firm in their Reſolution to con<g ref="char:EOLhyphen"/>quer the Difficulties that are in the Way of cleaving to them that are indeed turning from Sin to God.</p>
             <p n="6">VI. Our cleaving to them, and having their God for our God,
-<pb n="9" facs="tcp:008589_0009_102F8AAB2525A8A8"/>
+<pb n="9" facs="unknown:008589_0009_102F8AAB2525A8A8"/>
 and their People for our People depends on our Reſolution and Choice: <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nd that in two Reſpects</p>
@@ -478,14 +480,14 @@ and their People for our People depends on our Reſolution and Choice: <gap reas
                   </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> thro' the abundant Mercy and Grace of God to us in this Place, that it may be ſaid of many of you, that are in a Chriſtleſs Condition, that you have lately been left by thoſe that were formerly with you in ſuch a State. There are thoſe that you have formerly been converſant with, that have lately forſaken a Life of Sin, and the Service of Satan, and have turned to God and fled to Chriſt, and joined themſelves to that bleſſed Company that are with him. They formerly were with you in Sin &amp; in Miſery, but now they are with you no more, in that State or Manner of Life: They are changed, and have fled from the
-<pb n="10" facs="tcp:008589_0010_102F8AACB5D45D70"/>
+<pb n="10" facs="unknown:008589_0010_102F8AACB5D45D70"/>
 Wrath to come: They have choſen a life of Holineſs here, and the Enjoyment of God hereafter. They were formerly your Aſ<g ref="char:EOLhyphen"/>ſociates in Bondage and were with you in Satan's Buſineſs; but now you have their Company no longer in theſe Things Many of you have ſeen thoſe that you live with under the ſame Roof, turning from being any longer with you in Sin, to be with the People of Jeſus Chriſt. Some of you that are Huſbands, have had your Wives; and ſome of you that are Wives have had your Huſbands; ſome of you that are Children, have had your Parents; and Parents have had your Children; many of you have had your Brothers and Siſters; and many your near Neigh<g ref="char:EOLhyphen"/>bours, and Acquaintance, and ſpecial Friends; many of you that are young have had your Companions: I ſay<g ref="char:punc">▪</g> many of you have had thoſe that you have been thus concerned with, leaving you, forſaking that doleful Life, and wretched State that you ſtill continue in<g ref="char:punc">▪</g> God of his good Pleaſure, and wonderful Grace, hath lately cauſed it to be ſo in this Place, that Multitudes have been forſaking their old Abodes, in the Land of Moab, and under the Gods of Moab, and going into the Land of Iſrael, to put their Truſt under the Wings of the Lord God of Iſrael. Tho' you and they have been nearly related, and have dwelt together, or have been often together, and intimately acquainted one with another, they have been <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>aken, and you hitherto left! O let it not be the Foundation of a final parting! But earneſtly follow them; be firm in your Reſolution in this Matter. Don't do as Orpha did, who tho' at firſt ſhe made as though ſhe would fol<g ref="char:EOLhyphen"/>low Naomi, yet when ſhe had the Difficulty of it ſet before her, went back: But ſay as Ruth, <hi>I will not leave thee, but where thou goeſt I will go: Thy People ſhall be my People, and thy God my God.</hi> Say as ſhe ſaid, and do as ſhe did. Conſider the Ex<g ref="char:EOLhyphen"/>cellency of their God, and their Savior, and the Happineſs of their People, the bleſſed State that they are in, and<g ref="char:punc">▪</g> the doleful State that you are in.</p>
                <p>You that are old Sinners, that have lived long in the Service of Satan, have lately ſeen ſome that were with you, that have travell'd with you in the Paths of Sin, theſe many Years, that with you enjoyed great Means and Advantages, that have had Calls &amp; Warnings with you, and with you paſs'd through remark<g ref="char:EOLhyphen"/>able Times of the pouring out of God's Spirit in this Place, and have harden'd their Hearts, and ſtood it out with you, and with you have grown old in Sin; I ſay, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ou have ſeen ſome of them turning to God, i e<g ref="char:punc">▪</g> you have ſeen thoſe Evidences of it in them whence you may rationally judge that it is ſo. O! let it not be
-<pb n="11" facs="tcp:008589_0011_102F741F77BCD068"/>
+<pb n="11" facs="unknown:008589_0011_102F741F77BCD068"/>
 a final parting! You have been thus long together in Sin, and un<g ref="char:EOLhyphen"/>der condemnation; let it be your firm Reſolution now if poſſible you will be with them ſtill, now they are in an holy and happy State, &amp; that you will go with them into the holy &amp; pleaſant Land.</p>
                <p>You that tell of your having been ſeeking Salvation for many Years though without Doubt, in a poor low Way, in compariſon of what you ought to have done: You have ſeen ſome that have been with you in that Reſpect, that were old Sinners, and old Seekers as you are, obtaining Mercy. God has lately rouſed them from their Dulneſs, and cauſed them to alter their Hand, put them on more thorough Endeavors; and they have now af<g ref="char:EOLhyphen"/>ter ſo long a Time, heard God's Voice, and have fled for Refuge to the Rock of Ages. Let this awaken Earneſtneſs and Reſo<g ref="char:EOLhyphen"/>lution in you. Reſolve that you will not leave them.</p>
                <p>You that are in Youth, how many have you ſeen of your Age and Standing, that have of late hopefully choſen God for their God, and Chriſt for their Savior! You have followed them in Sin, and perhaps followed them into vain Company; and will you not now follow them to Chriſt?</p>
@@ -494,7 +496,7 @@ a final parting! You have been thus long together in Sin, and un<g ref="char:EOL
                   </gap>ted of their Sins, and have loved the Lord Jeſus Chriſt, and truſted in him, and are become God's Children, as we have Reaſon to hope: Let it ſtir you up to re<g ref="char:EOLhyphen"/>ſolve to your utmoſt to ſeek and cry to God, that you may have the like Change made in your Hearts, that their People may be your People, and their God your God.</p>
                <p>You that are great Sinners, that have made yourſelves diſtin<g ref="char:EOLhyphen"/>guiſhingly guilty, by the wicked Practices you have lived in, there are ſome of your Sort that have lately (as we have Reaſon to hope) had their Hearts broken for Sin, and have forſaken it<g ref="char:punc">▪</g> and have truſted in the Blood of Chriſt for the Pardon of it, and have choſen an holy Life, and have betaken themſelves to the Ways of Wiſdom: Let it excite and encourage you, reſolutely to cleave to them, and earneſtly to follow them. Here let the following Things be conſidered.</p>
                <p n="1">1. That your Soul is as precious as theirs. It is immortal as well as theirs; and ſtands in as much Need of Happineſs, and can as illy bear eternal Miſery. You was by Nature in the ſame miſerable Condition that they were, and had the ſame Wrath of God abiding on you. You muſt ſtand before the ſame Judge, who will be as ſtrict in Judgment with you as with them; and your own Righteouſneſs will ſtand you in no more Stead before him than theirs; and therefore you ſtand in as abſolute Neceſſity
-<pb n="12" facs="tcp:008589_0012_102F8AB677DA2FF0"/>
+<pb n="12" facs="unknown:008589_0012_102F8AB677DA2FF0"/>
 of a Savior as they. Carnal Confidences can no more anſwer your End than theirs; nor can this Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>d or its Enjoyments, ſerve to make you happy without God and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -553,7 +555,7 @@ of a Savior as they. Carnal Confidences can no more anſwer your End than theirs
                   </gap>2.2 <hi>Some ſhall riſe to everlaſting Life, and ſome to Shame <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>nd everlaſting Contempt.</hi> And what a wide Separation will the
-<pb n="13" facs="tcp:008589_0013_102F8ABA11D69EB0"/>
+<pb n="13" facs="unknown:008589_0013_102F8ABA11D69EB0"/>
 Sentence that ſhall be then p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -638,7 +640,7 @@ Sentence that ſhall be then p<gap reason="illegible" resp="#PDCC" extent="1 let
                   </gap>ver granted in New-<gap reason="illegible" resp="#PDCC" extent="6 letters">
                      <desc>••••••</desc>
                   </gap>d.
-<pb n="14" facs="tcp:008589_0014_102F8ABBC2127CB0"/>
+<pb n="14" facs="unknown:008589_0014_102F8ABBC2127CB0"/>
 Who is there that has an immortal Soul, that is ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> as not to improve ſuch an Opportunity, and that won't be<g ref="char:EOLhyphen"/>
@@ -664,7 +666,7 @@ Who is there that has an immortal Soul, that is ſo <gap reason="illegible" resp
                      </gap>e thou with us, and we will do thee Good; for the Lord hath ſpoken Good concerning Iſrael.</hi> As Moſes, when on his Journey through the Wilderneſs<g ref="char:punc">▪</g> following the Pillar of Cloud and Fire, invited Hobab, that he had been acquainted with, and nearly allied to, out of the Land of Medi<g ref="char:EOLhyphen"/>an, where Moſes had formerly dwelt with him, to go with him and his People to Canaan, to partake with them in the Good that God had promiſed them; ſo do thoſe of your Friends and Acquaintence, invite you out of a Land of Darkneſs and Wick<g ref="char:EOLhyphen"/>edneſs, where they have formerly been with you, to go with them to the heavenly Canaan. The Company of Saints, the true Church of Chriſt invite you The lovely Bride calls you to the Marriage Supper. She hath Authority to invite Gueſts to her own Wedding; and you ought to look on her Invitation and Deſire as the Call of Chriſt the Bridegroom; for it is the Voice of his Spirit in her, Rev. 22.17 <hi>The Spirit and the Bride ſay come.</hi> Where ſeems to be a <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eference to what had been ſaid, Chap 19 7, 8, 9 <hi>The Marriage of the Lamb is come, and his Wife hath made herſelf ready. And to her was granted that ſhe ſhould be arrayed in fine Linen clean and white; for the fine Linen is the Righteouſneſs of Saints. And he ſaith unto me, Write; Bleſſed are they which are called to the Marriage Sup<g ref="char:EOLhyphen"/>per of the Lamb</hi> 'Tis with Reſpect to this her Marriage Supper that ſhe, from the Motion of the Spirit of the Lamb in her, ſays
-<pb n="15" facs="tcp:008589_0015_102F8AC4B7594BD8"/>
+<pb n="15" facs="unknown:008589_0015_102F8AC4B7594BD8"/>
                   <hi>Come.</hi> So that you are invited on all Hands; all conſpire to c<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -676,7 +678,7 @@ Who is there that has an immortal Soul, that is ſo <gap reason="illegible" resp
                      </gap>ning Star.</hi> And God's Miniſters invite you, and all the Church invites you; and there will be Joy in the Preſence of the Angels of God, that Hour that you accept of the Invitation.</p>
                <p n="5">5. Conſider what a doleful Company that will be that be left after this extraordinary Time of Mercy is over. We have Rea<g ref="char:EOLhyphen"/>ſon to think that there will be a Number left. We read that when Ezekiel's healing Waters increaſed ſo abundently, and the healing Effect of them was ſo very general; yet there were cer<g ref="char:EOLhyphen"/>tain Places where the Waters came, that never were healed. Eze. 47.9, 10.11. <hi>And it ſhall come to paſs, that every Thing that liveth, which moveth, whitherſoever the Rivers come, ſhall live. And there be a very great Maltitude of Fiſh, becauſe theſe Waters ſhall come thither: for they ſhall be healed, and every Thing ſhall live, whither the River cometh. And it ſhall come to paſs, that the Fiſhers ſhall ſtand upon it, from En-gedi, even unto En<g ref="char:EOLhyphen"/>eglaim; they ſhall be a Place to ſpread forth Nets: There Fiſh ſhall be according to their Kinds, as the Fiſh of the Great Sea, exceeding many. But the miry Places thereof, and the Marſhes thereof, ſhall not be healed, they ſhall be given to Salt.</hi> And even in the Apoſtles Times, when there was ſuch wonderful Succeſs of the Goſpel, yet wherever they came there were ſome that did not believe. Acts 13.48. <hi>And when the Gentiles heard this, they were glad, and glorified the Word of the Lord, and as many as were ordained to eternal Life believed.</hi> And Chap. 28.24 <hi>And ſome believed, and ſome believed not.</hi> So we have no Reaſon to expect, but there will be ſome left amongſt us. 'Tis to be hoped it will be but a ſmall Company: But what a dole<g ref="char:EOLhyphen"/>ful Company will it be! How darkly and awfully will it look upon them!—If you ſhall be of that Company, how well may your Friends and Relations lament over you, and bemoan your dark and dangerous Circumſtances!—If you would not be one of them, make haſte, delay not, and look not behind you.— Shall all Sorts obtain, ſhall every one preſs into the Kingdom of God, while you ſtay loitering behind in a doleful, undone Condition? Shall every one take Heaven, while you remain with
 <pb n="16"
-                      facs="tcp:008589_0016_102F8AC65043D950"
+                      facs="unknown:008589_0016_102F8AC65043D950"
                       rendition="simple:additions"/>
 no other Portion but this World? <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
